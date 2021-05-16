@@ -5,7 +5,7 @@
 Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
 * Undergraduate Student at Sejong University, Seoul
-* Major: Intelligent Mechatronics Engineering
+* Major: [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/)
 * Currently Undergraduate Research Member at [CVLab](https://kuaicv.com/), Korea Univerisity, Seoul
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=kochanha&show_icons=true)
