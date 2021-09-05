@@ -6,6 +6,7 @@ Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
 * Undergraduate Student at Sejong University, Seoul
 * Major: [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/)
+* [Kaggle](https://www.kaggle.com/kimchanyoung) Notebook Expert
 * Undergraduate Research Member at [Computer Vision Lab](https://kuaicv.com/), Korea Univerisity, Seoul
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=kochanha&show_icons=true)
@@ -15,13 +16,14 @@ Visit 👉 [Web CV](https://kcy.smarcle.dev)
 **kochanha/kochanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [KUAICV](https://kuaicv.com/)
+- 🌱 I’m currently learning 3D Computer Vision
+- 📫 How to reach me: kochanha@gmail.com
+
+
