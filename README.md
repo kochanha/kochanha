@@ -7,7 +7,6 @@ Visit 👉 [Web CV](https://kcy.smarcle.dev)
 * Undergraduate Student at Sejong University, Seoul
 * Major: [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/)
 * [Kaggle](https://www.kaggle.com/kimchanyoung) Notebook Expert
-* Undergraduate Research Member at [Computer Vision Lab](https://kuaicv.com/), Korea Univerisity, Seoul
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=kochanha&show_icons=true)
 
@@ -22,7 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [KUAICV](https://kuaicv.com/)
 - 🌱 I’m currently learning 3D Computer Vision
 - 📫 How to reach me: kochanha@gmail.com
 
