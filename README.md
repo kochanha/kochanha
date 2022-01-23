@@ -5,6 +5,7 @@
 Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
 * Undergraduate Student at Sejong University, Seoul
+* Undergraduate Research Member at [Computer Vision Lab](https://kuaicv.wordpress.com/) at Korea University, Seoul
 * Major: [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/)
 * [Kaggle](https://www.kaggle.com/kimchanyoung) Notebook Expert
 
