@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning 3D Computer Vision
+- 🌱 I’m currently working on multimodal representation learning
 - 📫 How to reach me: kochanha@gmail.com
-- [Kaggle](https://www.kaggle.com/kimchanyoung)
 
 
