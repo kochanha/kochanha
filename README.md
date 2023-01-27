@@ -5,7 +5,6 @@
 Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
 * Undergraduate Student at Sejong University, Seoul
-* Research intern at [Computer Vision Lab](https://kuaicv.com/) at Korea University, Seoul
 * Major: [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/)
 
 
