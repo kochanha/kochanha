@@ -4,8 +4,7 @@
 
 Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
-* Undergraduate Student at Sejong University, Seoul
-* Major: [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/)
+* [2023] B.S. in [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/), Sejong University
 * [Google Scholar](https://scholar.google.com/citations?user=cUK7XFIAAAAJ&hl=ko)
 
 
