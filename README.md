@@ -6,12 +6,12 @@ Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
 * [2023] B.S. in [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/), Sejong University
 * [Google Scholar](https://scholar.google.com/citations?user=cUK7XFIAAAAJ&hl=ko)
-
+<!--
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=kochanha&show_icons=true)
 
 
-<!--
+
 **kochanha/kochanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🌱 I’m currently working on multimodal representation learning
+-->
 - 📫 How to reach me: kochanha@gmail.com
 
 
