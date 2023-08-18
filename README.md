@@ -4,7 +4,8 @@
 
 Visit 👉 [Web CV](https://kcy.smarcle.dev)
 
-* [2023] B.S. in [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/), Sejong University
+* [2023-Present] M.S. Student in [Dept. of Artificial Intelligence](https://ai.yonsei.ac.kr/), Yonsei University
+* [2017-2023] B.S. in [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/), Sejong University
 * [Google Scholar](https://scholar.google.com/citations?user=cUK7XFIAAAAJ&hl=ko)
 <!--
 
