@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on multimodal representation learning
 -->
-- 📫 How to reach me: kochanha@gmail.com
+- 📫 How to reach me: chanyoung@yonsei.ac.kr
 
 
