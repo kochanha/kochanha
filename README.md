@@ -5,6 +5,7 @@ Visit HERE!
 * [Google Scholar](https://scholar.google.com/citations?user=cUK7XFIAAAAJ&hl=ko)
 
 ## News
+* (May 2025) [Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis](https://arxiv.org/pdf/2503.08346) has been EARLY ACCEPTED to MICCAI 2025.
 * (Feb 2025) [Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2411.17150) has been accepted to CVPR 2025.
 * (Feb 2025) [Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis](https://micv-yonsei.github.io/storm2025/) has been accepted to CVPR 2025.
 * (Feb 2025) EAGLE (CVPR 2024 Highlight) won Best Academic Paper Award at Yonsei University Fall 2024.
