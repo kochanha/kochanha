@@ -14,7 +14,7 @@ Visit HERE!
 * (Feb 2024) [EAGLE🦅: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_EAGLE_Eigen_Aggregation_Learning_for_Object-Centric_Unsupervised_Semantic_Segmentation_CVPR_2024_paper.html) has been accepted to CVPR 2024 as a highlight paper.
 
 ## Education
-* [2023-Present] MS/PhD Student in [Dept. of Artificial Intelligence](https://ai.yonsei.ac.kr/), Yonsei University
+* [2023-Present] MS Student in [Dept. of Artificial Intelligence](https://ai.yonsei.ac.kr/), Yonsei University
 * [2017-2023] BS in [Intelligent Mechatronics Engineering](http://imc.sejong.ac.kr/), Sejong University
 
 <!--
